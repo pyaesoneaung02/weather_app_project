@@ -1,0 +1,15 @@
+npx create-react-app project_name
+
+Resources
+=========
+API => https://home.openweathermap.org
+
+Icons => npm i react-icons
+
+Bootstrap => npm i bootstrap
+
+Axios => npm i axios
+
+{https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}}
+
+API keys => fd1d5b8642834e1bfee818fa7b46a839
